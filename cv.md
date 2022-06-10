@@ -1,7 +1,7 @@
 # IRINA KHARTANOVICH 
 ***
 ### CONTACT  
-***Phone: +49177890378***  
+***Phone: +49177 890378***  
 ***E-mail: <irinasolovich@gmail.com>***  
 ***GitHub: [statuja](https://github.com/rolling-scopes-school/tasks/projects?type=beta)*** 
 ***
@@ -9,12 +9,10 @@
 5+ years of administrative and client support in real estate and retail. Successful experience in keeping things running smoothly by supporting executives with a broad array of tasks. Able to optimize routine procedures by increasing productivity and relieving workload of managerial staff. Adept in general accounting and finance transactions. Able to structure information, quickly and accurately prepare reports. Proven efficiency with an ability to quickly learn and navigate any computer software program, or office filing system.  
 The world is changing and the professions with it. Now I realised that this should be an acquaintance with IT.
 I already have a technical background, have always loved maths, logic and the pursuit of rationalising problems. 
-I Believe, that my previous experiance and skills will help me to atchive my main goal - successfuly complete the RS School course and to become front-end developer.
+I Believe, that my previous experiance and skills will help me to atchive my main goal - successfuly complete the RS School course and to become a front-end developer.
 
 ### KEY SKILLS   
-* Accountancy and systematic book-keeping
-* Local & International Payments procedures 
-* Debit & Credit control
+* Accountancy and systematic book-keeping 
 * Business Correspondence
 * Administrative and Reception Support
 * Planning and organizing
@@ -39,7 +37,7 @@ Administrative Assistant***
 ### EDUCATION  
 2009  
 Bachelor of Engineering,  
-Belarusian National Technical University - Minsk, Belarus
+*Belarusian National Technical University - Minsk, Belarus*
 
 ### ADDITIONAL  SKILLS  
 * Microsoft Office (Excel, Outlook)  
